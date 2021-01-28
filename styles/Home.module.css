@@ -5,6 +5,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: rgb(191, 219, 254);
 }
 
 .main {
@@ -112,6 +113,10 @@
 
 .logo {
   height: 1em;
+}
+
+.mb0 {
+  margin-bottom: 0;
 }
 
 @media (max-width: 600px) {
